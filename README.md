@@ -1,13 +1,14 @@
-# Flat Gray color scheme
-Flat gray light color scheme for KDE Plasma 5.
+# Blue Moon color scheme
+Dark color scheme with blue reflections. For KDE Plasma 5.
 
 Put the color-scheme in:
 ~/.kde/share/apps/color-schemes/
 
-![resized_flat-gray-dolphin-logo](https://user-images.githubusercontent.com/38332358/38722679-f72a0336-3efe-11e8-900b-166cd9cdafdd.png)
+![resized_blue-moon-dolphin-logo](https://user-images.githubusercontent.com/38332358/38722826-8916c96e-3eff-11e8-86e0-315029678713.png)
 
-![resized_flat-gray-desktop](https://user-images.githubusercontent.com/38332358/38722682-f90566fa-3efe-11e8-9fbb-8454d3b55392.png)
+![resized_blue-moon-desktop](https://user-images.githubusercontent.com/38332358/38722828-8bab8bc4-3eff-11e8-9e61-4c900733b5b0.png)
 
-![resized_flat-gray-dolphin](https://user-images.githubusercontent.com/38332358/38722683-fa9153c6-3efe-11e8-8f51-5219082eee91.png)
+![resized_blue-moon-dolphin](https://user-images.githubusercontent.com/38332358/38722829-8d1eeba4-3eff-11e8-8b6b-57d0cefdde7f.png)
 
-![resized_flat-gray-buttons](https://user-images.githubusercontent.com/38332358/38722687-fcad9372-3efe-11e8-84cf-1e0731490bcd.png)
+![resized_blue-moon-buttons](https://user-images.githubusercontent.com/38332358/38722830-8e5db518-3eff-11e8-8161-57e8a3eaad37.png)
+
