@@ -1,14 +1,13 @@
-# Blue Moon color scheme
-Dark color scheme with blue reflections. For KDE Plasma 5.
+# Violet Garden color scheme
+Light violet color scheme for KDE Plasma 5. Warning: it could make you romantic.
 
 Put the color-scheme in:
 ~/.kde/share/apps/color-schemes/
 
-![resized_blue-moon-dolphin-logo](https://user-images.githubusercontent.com/38332358/38722826-8916c96e-3eff-11e8-86e0-315029678713.png)
+![resized_violet-garden-dolphin-logo](https://user-images.githubusercontent.com/38332358/38723033-24389b16-3f00-11e8-8acd-58915f582466.png)
 
-![resized_blue-moon-desktop](https://user-images.githubusercontent.com/38332358/38722828-8bab8bc4-3eff-11e8-9e61-4c900733b5b0.png)
+![resized_violet-garden-dolphin](https://user-images.githubusercontent.com/38332358/38723041-292d4cf2-3f00-11e8-9a53-1fa90df71218.png)
 
-![resized_blue-moon-dolphin](https://user-images.githubusercontent.com/38332358/38722829-8d1eeba4-3eff-11e8-8b6b-57d0cefdde7f.png)
+![resized_violet-garden-desktop](https://user-images.githubusercontent.com/38332358/38723058-38825918-3f00-11e8-8a72-99099c2c4307.png)
 
-![resized_blue-moon-buttons](https://user-images.githubusercontent.com/38332358/38722830-8e5db518-3eff-11e8-8161-57e8a3eaad37.png)
-
+![resized_violet-garden-buttons](https://user-images.githubusercontent.com/38332358/38723060-3b907e0a-3f00-11e8-8195-2fdceea5c80f.png)
