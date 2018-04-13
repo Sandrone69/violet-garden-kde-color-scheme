@@ -1,13 +1,13 @@
-# Breeze Beige color scheme
-Breeze modified color scheme to beige colors for KDE Plasma 5.
+# Flat Gray Dark color scheme
+Flat gray dark color scheme for KDE Plasma 5.
 
 Put the color-scheme in:
 ~/.kde/share/apps/color-schemes/
 
-![resized_breeze-beige-dolphin-logo](https://user-images.githubusercontent.com/38332358/38722233-909aac20-3efd-11e8-80f3-17d845a49fc0.png)
+![resized_flat-gray-dark-dolphin-logo](https://user-images.githubusercontent.com/38332358/38722483-551ea754-3efe-11e8-8d7e-3aa48e2107e2.png)
 
-![resized_breeze-beige-desktop](https://user-images.githubusercontent.com/38332358/38722236-9306c6ba-3efd-11e8-8442-718ef236b5c1.png)
+![resized_flat-gray-dark-desktop](https://user-images.githubusercontent.com/38332358/38722484-56c816c6-3efe-11e8-8a46-9aa29615f0c7.png)
 
-![resized_breeze-beige-dolphin](https://user-images.githubusercontent.com/38332358/38722238-9602f3a2-3efd-11e8-868e-55f3f6792a57.png)
+![resized_flat-gray-dark-dolphin](https://user-images.githubusercontent.com/38332358/38722488-586df270-3efe-11e8-923a-79b711fd0820.png)
 
-![resized_breeze-beige-buttons](https://user-images.githubusercontent.com/38332358/38722242-97ef47d8-3efd-11e8-8f56-401c95b7aa34.png)
+![resized_flat-gray-dark-buttons](https://user-images.githubusercontent.com/38332358/38722493-5b3be926-3efe-11e8-8808-065d46aa64a3.png)
