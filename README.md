@@ -1,15 +1,14 @@
-# Avocado color scheme
-Avocado color scheme for KDE Plasma 5
+# Chocolate color scheme
+Dark color scheme for KDE Plasma 5. Made only with the best cocoa quality from all over the world.
 
 Put the color-scheme in:
 ~/.kde/share/apps/color-schemes/
 
-![resized_avocado-buttons](https://user-images.githubusercontent.com/38332358/38718870-7f3ba0be-3eef-11e8-87e4-32c485a5f997.png)
+![resized_chocolate-dolphin-logo](https://user-images.githubusercontent.com/38332358/38721726-89a4b3ea-3efb-11e8-94ca-86f22396ee86.png)
 
-![resized_avocado-desktop](https://user-images.githubusercontent.com/38332358/38718871-7f59a3d4-3eef-11e8-9d5c-813c70f26d5a.png)
+![resized_chocolate-desktop](https://user-images.githubusercontent.com/38332358/38721732-8c93288e-3efb-11e8-98d6-e21b82cf8447.png)
 
-![resized_avocado-dolphin-logo](https://user-images.githubusercontent.com/38332358/38718872-7f786f6c-3eef-11e8-8fa6-9335b4f6e239.png)
+![resized_chocolate-buttons](https://user-images.githubusercontent.com/38332358/38721734-8e9d2d1e-3efb-11e8-9abe-c287f320ac45.png)
 
-![resized_avocado-dolphin](https://user-images.githubusercontent.com/38332358/38718873-7f99afd8-3eef-11e8-9014-5980aadf007a.png)
-
+![resized_chocolate-dolphin](https://user-images.githubusercontent.com/38332358/38721736-903c82be-3efb-11e8-82ee-2e6d649a866c.png)
 
